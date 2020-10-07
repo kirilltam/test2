@@ -6,7 +6,7 @@ public class NewTest {
     public void test1() {
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://www.ozon.ru/");
-
+//  test ozone
 
 }
 }
